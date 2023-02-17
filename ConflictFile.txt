@@ -24,6 +24,32 @@ Good luck, and happy resolving!
 ---------- ChatGPT (long) ----------
 
 
+
+
+
+
+
+
+
+
+                          check line 85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Understanding Merge Conflicts in GitHub Exercises
 GitHub is a powerful tool for collaboration and version control in software development. However, it's not uncommon for multiple people to make changes to the same file in separate branches, leading to a situation known as a "merge conflict." In this article, we'll explore what merge conflicts are, why they occur, and how to resolve them in the context of GitHub exercises.
 
@@ -44,6 +70,8 @@ This is a new line in here. Lets see what it breaks.
 
 1) Identify the conflict: The first step is to identify which file or files have conflicts. This information will usually be displayed in your Git client when you try to merge the branches.
 
+this is a change from aeham
+
 2) Edit the file: Next, open the file with the conflict in a text editor and look for the conflict markers. Conflict markers are special comments in the file that indicate where the conflicting changes are.
 
 3) Choose the changes to keep: Once you have identified the conflicting changes, you'll need to decide which changes to keep and which changes to discard. You can also choose to combine the changes in some way if that makes sense.
@@ -58,3 +86,6 @@ In conclusion, merge conflicts are a common problem in software development, but
 greetings n-c0de-r
 
 (c) Courtesy of ChatGPT
+
+
+ @@@@@@@@@@@ changing test @@@@@@@@@@@@@@
