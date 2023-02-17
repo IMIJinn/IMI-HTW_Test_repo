@@ -6,9 +6,11 @@ Hello students!
 
 Welcome to the GitHub exercise on merge conflicts. In this exercise, you will learn how to resolve conflicts that can arise when merging branches.
 
-Here's a simple scenario to get you started:
 
-1. Both you and a colleague have made changes to the same file in separate branches.
+
+
+
+Hi i changed this here.
 
 2. When you try to merge the branches, a conflict occurs because the same line in the file has been changed by both of you.
 
@@ -20,6 +22,32 @@ Good luck, and happy resolving!
 
 
 ---------- ChatGPT (long) ----------
+
+
+
+
+
+
+
+
+
+
+                          check line 85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Understanding Merge Conflicts in GitHub Exercises
@@ -38,7 +66,11 @@ The reason Git can't automatically merge these changes is because it doesn't hav
 How to Resolve Merge Conflicts
 Resolving merge conflicts can be a bit tricky, but it's a valuable skill to have in your toolkit as a software developer. The basic steps for resolving a merge conflict are as follows:
 
+This is a new line in here. Lets see what it breaks.
+
 1) Identify the conflict: The first step is to identify which file or files have conflicts. This information will usually be displayed in your Git client when you try to merge the branches.
+
+this is a change from aeham
 
 2) Edit the file: Next, open the file with the conflict in a text editor and look for the conflict markers. Conflict markers are special comments in the file that indicate where the conflicting changes are.
 
@@ -51,4 +83,9 @@ It's worth noting that resolving merge conflicts can sometimes be a time-consumi
 Conclusion
 In conclusion, merge conflicts are a common problem in software development, but they're also a valuable opportunity to practice your skills and become a better developer. Whether you're working on GitHub exercises or real-world projects, understanding merge conflicts and knowing how to resolve them will serve you well in your career as a software developer.
 
+greetings n-c0de-r
+
 (c) Courtesy of ChatGPT
+
+
+ @@@@@@@@@@@ changing test @@@@@@@@@@@@@@
