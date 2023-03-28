@@ -7,7 +7,7 @@ Hello students!
 Welcome to the GitHub exercise on merge conflicts. In this exercise, you will learn how to resolve conflicts that can arise when merging branches.
 
 
-
+Eldaro is a KING!!
 
 
 Hi i changed this here.
